@@ -1,0 +1,4 @@
+langchain_core
+langchain_core.message
+langchain_groq
+dotenv
